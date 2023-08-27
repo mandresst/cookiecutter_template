@@ -23,4 +23,5 @@ cookiecutter https://github.com/audreyfeldroy/cookiecutter-pypackage.git
 
 ## Credits
 
-Development Lead: This template was created by Michael Andres Soto T. 
+Development Lead
+*  This template was created by Michael Andres Soto T. 
