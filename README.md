@@ -4,22 +4,23 @@ Cookiecutter template for a data science project with Python.
 
 
 ## Quickstart
--------
+
 
 To use this template you need to have installed Anaconda 
 
 Install the latest Cookiecutter if you haven't installed it yet (this requires
 Cookiecutter 2.3.0 or higher)
 
-```conda install cookiecutter```
+```
+conda install cookiecutter
+```
 
 Generate a Python package project:
 
-```cookiecutter https://github.com/audreyfeldroy/cookiecutter-pypackage.git```
+```
+cookiecutter https://github.com/audreyfeldroy/cookiecutter-pypackage.git
+```
 
 ## Credits
 
-Development Lead
--------
-
-This template was created by Michael Andres Soto T. 
+Development Lead: This template was created by Michael Andres Soto T. 
