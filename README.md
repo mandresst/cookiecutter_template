@@ -18,7 +18,7 @@ conda install cookiecutter
 Generate a Python package project:
 
 ```
-cookiecutter https://github.com/audreyfeldroy/cookiecutter-pypackage.git
+cookiecutter git@github.com:mandresst/cookiecutter_template.git
 ```
 
 ## Credits
