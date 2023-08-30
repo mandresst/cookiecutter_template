@@ -8,6 +8,8 @@ dependencies:
   - pip
   - pandas 
   - numpy
+  - matplotlib
+  - seaborn
   {%if cookiecutter.project_packages == "all" -%}
   - fs
   - jupyter
